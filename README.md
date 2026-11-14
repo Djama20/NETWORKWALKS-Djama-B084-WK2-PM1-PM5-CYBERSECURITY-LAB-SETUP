@@ -123,3 +123,18 @@ These exercises demonstrated the value of information gathering in cybersecurity
 Finally, I learned that reconnaissance and scanning must remain within an explicitly authorized scope. I completed these activities as part of the assigned educational cybersecurity lab.
 
 # 8. Evidences Collected
+*Screenshots collected performing the above task:
+
+![](whoisnetworkwalks.com.png)
+![](whatwebnetworkwalks.com.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK2-PM1-PM5-CYBERSECURITY-LAB-SETUP/blob/ef71204aaa610ab3414a3cee6f8981ffcd27083b/nslookup%20networkwalks.com.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK2-PM1-PM5-CYBERSECURITY-LAB-SETUP/blob/ef71204aaa610ab3414a3cee6f8981ffcd27083b/wafw00f%20networkwalks.com.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK2-PM1-PM5-CYBERSECURITY-LAB-SETUP/blob/ef71204aaa610ab3414a3cee6f8981ffcd27083b/curlIhttpsnetworkwalks.com.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK2-PM1-PM5-CYBERSECURITY-LAB-SETUP/blob/ef71204aaa610ab3414a3cee6f8981ffcd27083b/dnsrecon%20-d%20networkwalks.com.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK2-PM1-PM5-CYBERSECURITY-LAB-SETUP/blob/ef71204aaa610ab3414a3cee6f8981ffcd27083b/Zenmap%20.png)
+![](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK2-PM1-PM5-CYBERSECURITY-LAB-SETUP/blob/ef71204aaa610ab3414a3cee6f8981ffcd27083b/Zenmap%202%20.png)
+
+Thanks 
+End Fin 
+
+
